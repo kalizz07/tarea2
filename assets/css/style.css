@@ -1,0 +1,106 @@
+.bg{
+    height: 40px;
+    background-color: #1D2C71;
+    color:#fff;
+    font-size: 14pt;
+    padding-top: 7px;
+}
+.logo{
+    padding-top: 5px;
+    padding-bottom: 25px;
+    margin-left: 0px;
+}
+.logo1{
+    padding-top: 15px;
+    padding-bottom: 25px;
+    margin-left: 0px;  
+    margin-top: 20px;
+}
+.titulo{
+    color:#212d78;
+    font-size: 16pt;
+   float: right;
+    
+}
+.tx{
+ text-align: right;
+ margin-top: 15px;
+
+}
+.sd{
+    border-radius: 5px;
+
+background: #F5F5F5;
+margin-top: 35px;
+padding: 15px;
+border: 1px solid #e3e3e3;
+
+
+}
+.su{
+    border-left: 1px solid #ccc;
+}
+.btn{
+    background:  #1D2C71;
+
+}
+
+.ico{
+    float: right;
+}
+.user{
+    width: 120px;
+}
+.link1{
+    margin-top: 20px;
+    margin-right: 45px;
+    float: left;
+ }
+
+ .link2{
+     margin-top: 20px;
+ }
+
+ .sb{
+
+    border-radius: 5px;
+    
+    background: #F5F5F5;
+    margin-top: 35px;
+    padding: 16px;
+    border: 1px solid #e3e3e3;
+    
+ }
+ 
+ .reg{
+    border-radius: 5px;
+    
+    background: #F5F5F5;
+    margin-top: 16px;
+    padding: 20px;
+    border: 1px solid #e3e3e3;
+    
+ }
+ .seg{
+     cursor: pointer;
+ }
+ .breg{
+    cursor: pointer;
+ }
+ .pol{
+    border-radius: 5px;
+    
+    background: #F5F5F5;
+    margin-top: 15px;
+    padding: 16px;
+    border: 1px solid #e3e3e3;
+ }
+
+ .logpubli{
+
+    margin-top: 26px;
+ }
+ .logl{
+   text-align: center;
+
+ }

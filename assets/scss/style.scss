@@ -1,0 +1,167 @@
+//sass --watch assets/scss/style.scss:assets/scss/style.css
+.bg{
+    height: 40px;
+    background-color: #1D2C71;
+    color:#fff;
+    font-size: 14pt;
+    padding-top: 7px;
+}
+.logo{
+    padding-top: 5px;
+    padding-bottom: 25px;
+    margin-left: 0px;
+}
+.logo1{
+    padding-top: 15px;
+    padding-bottom: 25px;
+    margin-left: 0px;  
+    margin-top: 20px;
+}
+.titulo{
+    color:#212d78;
+    font-size: 16pt;
+   float: right;
+    
+}
+.tx{
+ text-align: right;
+ margin-top: 15px;
+
+}
+.sd{
+    border-radius: 5px;
+
+background: #F5F5F5;
+margin-top: 35px;
+padding: 15px;
+border: 1px solid #e3e3e3;
+
+
+}
+.su{
+    border-left: 1px solid #ccc;
+     
+}
+.btn{
+    background:  #1D2C71;
+    border-radius: 0px;
+    
+
+}
+
+.ico{
+    float: right;
+    color: gray;
+    
+}
+.user{
+    width: 150px;
+    padding-bottom: 10px;
+}
+.link1{
+    margin-top: 20px;
+    margin-right: 45px;
+    float: left;
+ }
+
+ .link2{
+     margin-top: 20px;
+ }
+
+ .sb{
+
+    border-radius: 5px;
+    
+    background: #F5F5F5;
+    margin-top: 35px;
+    padding: 16px;
+    border: 1px solid #e3e3e3;
+    
+ }
+ 
+ .reg{
+    border-radius: 5px;
+    
+    background: #F5F5F5;
+    margin-top: 16px;
+    padding: 20px;
+    border: 1px solid #e3e3e3;
+    font-size: 10pt;
+    
+    text-decoration: none;
+    cursor: pointer;
+    
+ }
+ 
+ .breg{
+    cursor: pointer;
+    font-size: 26pt;
+    text-decoration: none;
+    color:#1D2C71;
+    margin-right: 10px;
+   
+   
+ }
+ 
+ .pol{
+    border-radius: 5px;
+    
+    background: #F5F5F5;
+    margin-top: 15px;
+    padding: 16px;
+    border: 1px solid #e3e3e3;
+ }
+
+ .logpubli{
+
+    margin-top: 26px;
+ }
+ .logl{
+   text-align: center;
+   font-size: 10pt;
+   cursor: pointer;
+
+ }
+ 
+
+
+     .pan{
+        
+        margin-top: 56px;
+        background:white;
+        padding: 15px;
+     }
+
+     .ft{
+         //pie de pagina
+        margin-left: 465px;
+        margin-right: 350px;
+        background: white;
+        text-align: center;
+        font-size: 10pt;
+        border: none;
+     }
+        a:link{ 
+         text-decoration: none;
+         cursor: pointer;
+     }
+.qd{ //quitar decoracion de los links a
+    text-decoration: none !important;
+    cursor: pointer !important;
+    
+}
+.inf{
+    // del div del texto se informacion si no tiene usuario
+
+    padding-top: 20px;
+    color:grey;
+}
+.flex{
+    display:flex;
+    //display:inline-flex;
+    flex-wrap: wrap;
+    //align-content:center;
+   // justify-content:center;
+   //align-content:center;
+   align-self: center;
+}
